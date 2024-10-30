@@ -26,7 +26,7 @@ I’m delving deeper into C++ and also continuously working on improving my skil
 ---
 
 ## 🚀 Let's Connect!
-- **LinkedIn**: [Jaxson Kahl]([https://linkedin.com/in/jaxsonkahl](https://www.linkedin.com/in/jaxson-kahl-b8b464269/))
+- **LinkedIn**: [Jaxson Kahl](https://www.linkedin.com/in/jaxson-kahl-b8b464269/)
 - **GitHub**: You're here! Feel free to explore my repos and projects.
 - **Email**: jaxsonkahl@gmail.com
 

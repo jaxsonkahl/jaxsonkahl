@@ -21,7 +21,7 @@ I’m actively expanding my knowledge in software engineering and continuously w
 ---
 
 ## 🌱 What I’m Currently Learning
-I’m delving deeper into C# and also continuously working on improving my skills in Java and Python.
+I’m diving deeper into C# and also continuously working on improving my skills in Java and Python.
 
 ---
 

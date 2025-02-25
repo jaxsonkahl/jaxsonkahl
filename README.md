@@ -20,16 +20,8 @@ I’m actively expanding my knowledge in software engineering and continuously w
 
 ---
 
-## 🌱 What I’m Currently Learning
-I’m diving deeper into C# and also continuously working on improving my skills in Java and Python.
-
----
-
 ## 🚀 Let's Connect!
 - **LinkedIn**: [Jaxson Kahl](https://www.linkedin.com/in/jaxson-kahl-b8b464269/)
 - **GitHub**: You're here! Feel free to explore my repos and projects.
 - **Email**: jaxsonkahl@gmail.com
 
----
-
-Thanks for stopping by! Whether you’re here to collaborate, or discuss tech and fitness, I’d love to connect. Feel free to reach out!

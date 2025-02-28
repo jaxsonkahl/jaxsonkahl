@@ -1,7 +1,7 @@
-# Hi there, I'm Jaxson Kahl 👋
+# Hello!
 
 🎓 **Computer Science Student at UBC**  
-💻 **Aspiring Software Engineer**  
+💻 **Software Developer**  
 🏋️ **Fitness Enthusiast | Avid Skier | Tech Optimist**
 
 ---
